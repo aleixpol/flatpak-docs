@@ -8,3 +8,4 @@ Flatpak provides a range of options and helper tools, which allow building appli
 
    python
    electron
+   qt
